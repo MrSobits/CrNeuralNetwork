@@ -1,0 +1,11 @@
+C:\Users\IVRachuk.OIS\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuralNetworkLibrary\bin\Debug\Lenium.NeuralNetwork.dll
+C:\Users\IVRachuk.OIS\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuralNetworkLibrary\bin\Debug\Lenium.NeuralNetwork.pdb
+C:\Users\IVRachuk.OIS\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuralNetworkLibrary\obj\Debug\LeniumNeuralNetworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\IVRachuk.OIS\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuralNetworkLibrary\obj\Debug\Lenium.NeuralNetwork.dll
+C:\Users\IVRachuk.OIS\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuralNetworkLibrary\obj\Debug\Lenium.NeuralNetwork.pdb
+D:\NeuralNetwork\NeuralNetworkLibrary\bin\Debug\Lenium.NeuralNetwork.dll
+D:\NeuralNetwork\NeuralNetworkLibrary\bin\Debug\Lenium.NeuralNetwork.pdb
+D:\NeuralNetwork\NeuralNetworkLibrary\obj\Debug\LeniumNeuralNetworkLibrary.csproj.AssemblyReference.cache
+D:\NeuralNetwork\NeuralNetworkLibrary\obj\Debug\LeniumNeuralNetworkLibrary.csproj.CoreCompileInputs.cache
+D:\NeuralNetwork\NeuralNetworkLibrary\obj\Debug\Lenium.NeuralNetwork.dll
+D:\NeuralNetwork\NeuralNetworkLibrary\obj\Debug\Lenium.NeuralNetwork.pdb
